@@ -6,7 +6,8 @@
 # Carreer objective
   Final-year Diploma in Information and Communication Technology student specializing in Software Development, actively exploring opportunities in software development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or 
   graduate opportunity within a technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and continue developing industry-level technical expertise.
-# EDUCATION 
+  
+# Education 
  
  # National Senior Certificate
  Zwelakhe Senior Secondary School
@@ -46,6 +47,7 @@ Vibe Coding (LLMs – GPT5 Nano)
 · Replit
 · Fuzen
 · Lovable.ai
+
 # Projects
  # ExamReady Hub                                                  
   2026 – Present (https://examreadyhub.lovable.app)
@@ -56,24 +58,27 @@ Vibe Coding (LLMs – GPT5 Nano)
    - Implemented dynamic content structure for quizzes, exam papers, and memorandums.
    - Applied AI prompt-assisted development to optimize system design and content generation.
    - Designed responsive frontend interface and structured backend-ready architecture.
- # Mzansi ThriftShop ( http://127.0.0.1:5000)
-  2025 – Present
+ # Mzansi ThriftShop 
+  2025 – Present ( http://127.0.0.1:5000)
  
   Documentation Lead | Full-Stack E-commerce Application (Team of 5)
    - Led technical documentation, including backend and frontend workflow design.
    - Developers initially used dummy data for API communication; frontend was fully functional but not connected to the database.
    - Currently improving database integration processes to ensure seamless communication between the database, backend, and frontend.
    - Developed structured technical guides to assist the team in backend integration.
+
+   - 
 # References
-## 🏢 Zwelakhe Senior Secondary School
- 
-## 👤 Siyabonga Gxula
- 
+
+# 🏢 Zwelakhe Senior Secondary School
+# 👤 Siyabonga Gxula
  ✉️ gxusiyabonga@gmail.com
+
+# 📞 078 766 5384
+
  
- 📞 078 766 5384
-## 🏢 Zwelakhe Senior Secondary School
-## 👤 Lusanda Mbenguzana
+# 🏢 Zwelakhe Senior Secondary School
+# 👤 Lusanda Mbenguzana
    ✉️ lusandambenguzana1@gmail.com
    
    📞 078 072 3715

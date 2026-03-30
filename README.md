@@ -1,5 +1,7 @@
 # Mangaliso Snothando
 
+ 💻 IT Student | Application Developer  
+
 📧 241177049@mycput.ac.za  
 🔗 https://www.linkedin.com/in/geemangaliso  
 📞 083 765 9532  
@@ -9,88 +11,93 @@
 
 [![Mock Interview](https://img.shields.io/badge/Mock-Interview-blue?style=for-the-badge)](https://drive.google.com/file/d/10HdAeawBl5q-791oBLJdnDwsKvmjDnw3/view?usp=drivesdk)
 
+---
 
-# Carreer objective
-  I am a final-year ICT student at CPUT specializing in application development. 
-  I focus on building scalable web applications and integrating AI into real-world solutions.
-  I enjoy solving problems, designing systems, and turning ideas into working products.
-  
-# Education 
- 
- # National Senior Certificate
- Zwelakhe Senior Secondary School
- 
- 2023 (Completed)
- 
- # Diploma in ICT
- Cape Peninsula University of Technology
- 
- 2024–2026 (Final Year)
-# Technical Skills
-  # Languages
-  
-Java
-· Intermediate
-Python
-· Intermediate
-JavaScript
-· Intermediate
-  # Web technologies
-   · HTML
-   
-   · CSS
-   
-# Databases
-SQL
-· Intermediate
-# AI & Modern Development
-Prompt Engineering
-· Advanced
-Vibe Coding (LLMs – GPT5 Nano)
-# Tools & Platforms
-· Git
-· IntelliJ IDEA
-· VS Code
-· NetBeans
-· Replit
-· Fuzen
-· Lovable.ai
+## 🎯 Career Objective
+I am a final-year ICT student at CPUT specializing in Application Development. I focus on building scalable web applications and integrating AI into real-world solutions. I enjoy solving problems, designing systems, and turning ideas into working products.
 
-# Projects
- # ExamReady Hub                                                  
-  2026 – Present (https://examreadyhub.lovable.app)
-  
-  Individual Project | Deployed Educational Web Platform
-   - Designed and developed a structured learning platform for Grade 8–12 learners.
-   - Built secure user registration to manage controlled access to academic resources.
-   - Implemented dynamic content structure for quizzes, exam papers, and memorandums.
-   - Applied AI prompt-assisted development to optimize system design and content generation.
-   - Designed responsive frontend interface and structured backend-ready architecture.
- # Mzansi ThriftShop 
-  2025 – Present ( http://127.0.0.1:5000)
- 
-  Documentation Lead | Full-Stack E-commerce Application (Team of 5)
-   - Led technical documentation, including backend and frontend workflow design.
-   - Developers initially used dummy data for API communication; frontend was fully functional but not connected to the database.
-   - Currently improving database integration processes to ensure seamless communication between the database, backend, and frontend.
-   - Developed structured technical guides to assist the team in backend integration.
+---
 
-# Mock Interview video
+## 🎓 Education
 
-https://drive.google.com/file/d/10HdAeawBl5q-791oBLJdnDwsKvmjDnw3/view?usp=drivesdk
+**National Senior Certificate**  
+Zwelakhe Senior Secondary School  
+2023 (Completed)
+
+**Diploma in ICT**  
+Cape Peninsula University of Technology  
+2024 – 2026 (Final Year)
 
 
-# References
+---
 
-# 🏢 Zwelakhe Senior Secondary School
-# 👤 Siyabonga Gxula
- ✉️ gxusiyabonga@gmail.com
+## 🛠️ Technical Skills
 
-# 📞 078 766 5384
+### 💻 Programming Languages
+- Java (Intermediate)  
+- Python (Intermediate)  
+- JavaScript (Intermediate)
 
- 
-# 🏢 Zwelakhe Senior Secondary School
-# 👤 Lusanda Mbenguzana
-   ✉️ lusandambenguzana1@gmail.com
-   
-   📞 078 072 3715
+### 🌐 Web Technologies
+- HTML  
+- CSS  
+
+### 🗄️ Databases
+- SQL (Intermediate)
+
+### 🤖 AI & Modern Development
+- Prompt Engineering (Advanced)  
+- Vibe Coding (LLMs – GPT-5 Nano)
+
+### 🧰 Tools & Platforms
+- Git  
+- IntelliJ IDEA  
+- VS Code  
+- NetBeans  
+- Replit  
+- Fuzen  
+- Lovable.ai  
+
+---
+
+## 🚀 Projects
+
+### 📘 ExamReady Hub  
+**2026 – Present**  
+🔗 https://examreadyhub.lovable.app  
+
+Individual Project | Deployed Educational Web Platform  
+
+- Designed and developed a structured learning platform for Grade 8–12 learners  
+- Built secure user registration system  
+- Implemented dynamic content for quizzes, exam papers, and memorandums  
+- Used AI-assisted development for system design and content generation  
+- Designed responsive frontend and scalable backend-ready architecture  
+
+---
+
+### 🛒 Mzansi ThriftShop  
+**2025 – Present**  
+🔗 http://127.0.0.1:5000  
+
+Documentation Lead | Full-Stack E-commerce Application (Team of 5)  
+
+- Led technical documentation for backend and frontend workflows  
+- Initially worked with dummy API data while frontend was completed  
+- Currently improving database integration  
+- Created structured guides to support backend integration  
+
+---
+
+
+## 📞 References
+
+### 👤 Siyabonga Gxula  
+🏢 Zwelakhe Senior Secondary School  
+📧 gxusiyabonga@gmail.com  
+📞 078 766 5384  
+
+### 👤 Lusanda Mbenguzana  
+🏢 Zwelakhe Senior Secondary School  
+📧 lusandambenguzana1@gmail.com  
+📞 078 072 3715  

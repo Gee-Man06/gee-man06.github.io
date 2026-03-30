@@ -4,11 +4,15 @@
 ## 📞 0837659532
 ## 📍 Woodstock, Cape town
 
-## My CV
-[ Download my cv ] (https://github.com/Gee-Man06/gee-man06.github.io/blob/7f2767cafdb4442d7abdc4d301356094ca26e9a0/Mangaliso_Snothando_CV%20(3).pdf)
+
+## Download my cv((https://github.com/Gee-Man06/gee-man06.github.io/blob/7f2767cafdb4442d7abdc4d301356094ca26e9a0/Mangaliso_Snothando_CV%20(3).pdf))                                       ## Download Interview demo(https://drive.google.com/file/d/10HdAeawBl5q-791oBLJdnDwsKvmjDnw3/view?usp=drivesdk
+
+
+
 # Carreer objective
-  Final-year Diploma in Information and Communication Technology student specializing in Software Development, actively exploring opportunities in software development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or 
-  graduate opportunity within a technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and continue developing industry-level technical expertise.
+  I am a final-year ICT student at CPUT specializing in application development. 
+  I focus on building scalable web applications and integrating AI into real-world solutions.
+  I enjoy solving problems, designing systems, and turning ideas into working products.
   
 # Education 
  

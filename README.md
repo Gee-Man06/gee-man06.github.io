@@ -3,6 +3,9 @@
 ## 🖇️ www.linkedin.com/in/geemangaliso
 ## 📞 0837659532
 ## 📍 Woodstock, Cape town
+
+## My CV
+[ Download my cv ] (https://github.com/Gee-Man06/gee-man06.github.io/blob/7f2767cafdb4442d7abdc4d301356094ca26e9a0/Mangaliso_Snothando_CV%20(3).pdf)
 # Carreer objective
   Final-year Diploma in Information and Communication Technology student specializing in Software Development, actively exploring opportunities in software development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or 
   graduate opportunity within a technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and continue developing industry-level technical expertise.

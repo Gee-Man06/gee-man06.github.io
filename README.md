@@ -6,7 +6,8 @@
 
 
 [![Download CV](https://img.shields.io/badge/Download-CV-green?style=for-the-badge)](https://github.com/Gee-Man06/gee-man06.github.io/blob/7f2767cafdb4442d7abdc4d301356094ca26e9a0/Mangaliso_Snothando_CV%20(3).pdf)
-[![View Mock Video Interview](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge)]((https://drive.google.com/file/d/10HdAeawBl5q-791oBLJdnDwsKvmjDnw3/view?usp=drivesdk))
+
+[![Mock Interview](https://img.shields.io/badge/Mock-Interview-blue?style=for-the-badge)](https://drive.google.com/file/d/10HdAeawBl5q-791oBLJdnDwsKvmjDnw3/view?usp=drivesdk)
 
 
 # Carreer objective

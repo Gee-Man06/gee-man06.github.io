@@ -1,9 +1,9 @@
-# MANGALISO SNOTHANDO
-## ✉️ 241177049@mycput.ac.za
-## 🖇️ www.linkedin.com/in/geemangaliso
-## 📞 0837659532
-## 📍 Woodstock, Cape town
+# Mangaliso Snothando
 
+📧 241177049@mycput.ac.za  
+🔗 https://www.linkedin.com/in/geemangaliso  
+📞 083 765 9532  
+📍 Woodstock, Cape Town
 
 [![Download CV](https://img.shields.io/badge/Download-CV-green?style=for-the-badge)](https://github.com/Gee-Man06/gee-man06.github.io/blob/7f2767cafdb4442d7abdc4d301356094ca26e9a0/Mangaliso_Snothando_CV%20(3).pdf)
 

@@ -67,7 +67,11 @@ Vibe Coding (LLMs – GPT5 Nano)
    - Currently improving database integration processes to ensure seamless communication between the database, backend, and frontend.
    - Developed structured technical guides to assist the team in backend integration.
 
-   - 
+# Mock Interview video
+
+https://drive.google.com/file/d/10HdAeawBl5q-791oBLJdnDwsKvmjDnw3/view?usp=drivesdk
+
+
 # References
 
 # 🏢 Zwelakhe Senior Secondary School

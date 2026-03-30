@@ -4,11 +4,10 @@
 ## 📞 0837659532
 ## 📍 Woodstock, Cape town
 
-[![View Portfolio](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge)](https://yourlink.com)
 
 [![Download CV](https://img.shields.io/badge/Download-CV-green?style=for-the-badge)]([https://yourcvlink.com](https://github.com/Gee-Man06/gee-man06.github.io/blob/7f2767cafdb4442d7abdc4d301356094ca26e9a0/Mangaliso_Snothando_CV%20(3).pdf))
-## Download my cv((https://github.com/Gee-Man06/gee-man06.github.io/blob/7f2767cafdb4442d7abdc4d301356094ca26e9a0/Mangaliso_Snothando_CV%20(3).pdf))                                       ## Download Interview demo(https://drive.google.com/file/d/10HdAeawBl5q-791oBLJdnDwsKvmjDnw3/view?usp=drivesdk
 
+[![View Mock Video Interview](https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge)]([https://yourlink.com](https://drive.google.com/file/d/10HdAeawBl5q-791oBLJdnDwsKvmjDnw3/view?usp=drivesdk))
 
 
 # Carreer objective

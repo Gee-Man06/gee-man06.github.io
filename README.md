@@ -1,19 +1,15 @@
-# Mangaliso Snothando
-
- 💻 IT Student | Application Developer  
+# Mangaliso Snothando  
 
 📧 241177049@mycput.ac.za  
 🔗 https://www.linkedin.com/in/geemangaliso  
 📞 083 765 9532  
 📍 Woodstock, Cape Town
 
-[![Download CV](https://img.shields.io/badge/Download-CV-green?style=for-the-badge)](https://github.com/Gee-Man06/gee-man06.github.io/blob/7f2767cafdb4442d7abdc4d301356094ca26e9a0/Mangaliso_Snothando_CV%20(3).pdf)
-[![ Download Mock Interview Video](https://img.shields.io/badge/Mock-Interview-blue?style=for-the-badge)](https://drive.google.com/file/d/10HdAeawBl5q-791oBLJdnDwsKvmjDnw3/view?usp=drivesdk)
 
 ---
 
 ## 🎯 Career Objective
-I am a final-year ICT student at CPUT specializing in Application Development. I focus on building scalable web applications and integrating AI into real-world solutions. I enjoy solving problems, designing systems, and turning ideas into working products.
+Final-year Diploma in Information and Communication Technology student specializing in Software Development, actively exploring opportunities in software development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or graduate opportunity within a technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and continue developing industry-level technical expertise.
 
 ---
 
@@ -62,8 +58,7 @@ Cape Peninsula University of Technology
 ## 🚀 Projects
 
 ### 📘 ExamReady Hub  
-**2026 – Present**  
-🔗 https://examreadyhub.lovable.app  
+**2026 – Present**   
 
 Individual Project | Deployed Educational Web Platform  
 
@@ -77,7 +72,6 @@ Individual Project | Deployed Educational Web Platform
 
 ### 🛒 Mzansi ThriftShop  
 **2025 – Present**  
-🔗 http://127.0.0.1:5000  
 
 Documentation Lead | Full-Stack E-commerce Application (Team of 5)  
 

@@ -13,7 +13,7 @@
 📧 241177049@mycput.ac.za |
 🔗 <a href="https://www.linkedin.com/in/geemangaliso">LinkedIn</a> |
 📞 083 765 9532 |
-📍 Woodstock, Cape Town
+
 </p>
 
 

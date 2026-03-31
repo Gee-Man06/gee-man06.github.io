@@ -4,6 +4,10 @@
 
 ---
 
+## 🎯 Career Objective 
+Final-year Diploma in Information and Communication Technology student specializing in Software Development, actively exploring opportunities in software development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or graduate opportunity within a technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and continue developing industry-level technical expertise.
+
+---
 
 
 ## 🎓 Education

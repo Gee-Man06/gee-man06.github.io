@@ -6,7 +6,9 @@
 
 ## 🎯 Career Objective
 
-Final-year Diploma in Information and Communication Technology student specializing in Software Development, actively exploring opportunities in software development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or graduate opportunity within a technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and continue developing industry-level technical expertise.
+Final-year Diploma in Information and Communication Technology student specializing in Software Development, actively exploring opportunities in software development and AI-assisted solutions.  
+
+Seeking a Work-Integrated Learning (WIL) placement, internship, or graduate opportunity within a technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and continue developing industry-level technical expertise.
 
 ---
 
@@ -51,8 +53,7 @@ Cape Peninsula University of Technology (2024–2026)
 
 ## 🚀 Projects
 
-### 📘 ExamReady Hub  
-**2026 – Present**  
+### 📘 ExamReady Hub (2026 – Present)
 
 Individual Project | Deployed Educational Web Platform  
 
@@ -64,8 +65,7 @@ Individual Project | Deployed Educational Web Platform
 
 ---
 
-### 🛒 Mzansi ThriftShop  
-**2025 – Present**  
+### 🛒 Mzansi ThriftShop (2025 – Present)
 
 Documentation Lead | Full-Stack E-commerce Application (Team of 5)  
 

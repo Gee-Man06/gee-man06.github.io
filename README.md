@@ -1,39 +1,22 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Mangaliso Snothando - CV</title>
-  <link rel="stylesheet" href="style.css">
-</head>
+# Mangaliso Snothando
 
-<body>
-
-<h1>Mangaliso Snothando</h1>
-
-<p>
-📧 241177049@mycput.ac.za |
-🔗 <a href="https://www.linkedin.com/in/geemangaliso">LinkedIn</a> |
-📞 083 765 9532 |
-
-</p>
-
+📧 241177049@mycput.ac.za | 🔗 [LinkedIn](https://www.linkedin.com/in/geemangaliso) | 📞 083 765 9532 | 📍 Woodstock, Cape Town
 
 ---
 
-<h2>🎯 Career Objective </h2> 
-<p>Final-year Diploma in Information and Communication Technology student specializing in Software Development, actively exploring opportunities in software development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or graduate opportunity within a technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and continue developing industry-level technical expertise.</p>
+## 🎯 Career Objective
+
+Final-year Diploma in Information and Communication Technology student specializing in Software Development, actively exploring opportunities in software development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or graduate opportunity within a technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and continue developing industry-level technical expertise.
 
 ---
 
-<hr>
+## 🎓 Education
 
-<h2>🎓 Education</h2>
-<p><strong>National Senior Certificate</strong><br>
-Zwelakhe Senior Secondary School (2023)</p>
+**National Senior Certificate**  
+Zwelakhe Senior Secondary School (2023)
 
-<p><strong>Diploma in ICT</strong><br>
-Cape Peninsula University of Technology (2024–2026)</p>
-
-
+**Diploma in ICT**  
+Cape Peninsula University of Technology (2024–2026)
 
 ---
 
@@ -69,7 +52,7 @@ Cape Peninsula University of Technology (2024–2026)</p>
 ## 🚀 Projects
 
 ### 📘 ExamReady Hub  
-**2026 – Present**   
+**2026 – Present**  
 
 Individual Project | Deployed Educational Web Platform  
 
@@ -93,14 +76,11 @@ Documentation Lead | Full-Stack E-commerce Application (Team of 5)
 
 ---
 
-<h2 align="center">🎥 Demo Video</h2>
+## 🎥 Demo Video
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=T-iVxsW9EfM">
-    <img src="https://img.youtube.com/vi/T-iVxsW9EfM/0.jpg" width="600">
-  </a>
-</p>
+[![Watch Demo](https://img.youtube.com/vi/T-iVxsW9EfM/0.jpg)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
 
+---
 
 ## 📞 References
 
@@ -112,6 +92,4 @@ Documentation Lead | Full-Stack E-commerce Application (Team of 5)
 ### 👤 Lusanda Mbenguzana  
 🏢 Zwelakhe Senior Secondary School  
 📧 lusandambenguzana1@gmail.com  
-📞 078 072 3715 
-</body>
-</html>
+📞 078 072 3715

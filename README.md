@@ -2,36 +2,37 @@
 <html>
 <head>
   <title>Mangaliso Snothando - CV</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-<h1>Mangaliso Snothando</h1> 
+<h1>Mangaliso Snothando</h1>
 
-# Mangaliso Snothando  
-
-📧 241177049@mycput.ac.za  
-🔗 https://www.linkedin.com/in/geemangaliso  
-📞 083 765 9532  
+<p>
+📧 241177049@mycput.ac.za |
+🔗 <a href="https://www.linkedin.com/in/geemangaliso">LinkedIn</a> |
+📞 083 765 9532 |
 📍 Woodstock, Cape Town
+</p>
 
 
 ---
 
-## 🎯 Career Objective
-Final-year Diploma in Information and Communication Technology student specializing in Software Development, actively exploring opportunities in software development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or graduate opportunity within a technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and continue developing industry-level technical expertise.
+<h2>🎯 Career Objective </h2> 
+<p>Final-year Diploma in Information and Communication Technology student specializing in Software Development, actively exploring opportunities in software development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or graduate opportunity within a technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and continue developing industry-level technical expertise.</p>
 
 ---
 
-## 🎓 Education
+<hr>
 
-**National Senior Certificate**  
-Zwelakhe Senior Secondary School  
-2023 (Completed)
+<h2>🎓 Education</h2>
+<p><strong>National Senior Certificate</strong><br>
+Zwelakhe Senior Secondary School (2023)</p>
 
-**Diploma in ICT**  
-Cape Peninsula University of Technology  
-2024 – 2026 (Final Year)
+<p><strong>Diploma in ICT</strong><br>
+Cape Peninsula University of Technology (2024–2026)</p>
+
 
 
 ---

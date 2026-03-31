@@ -111,4 +111,6 @@ Documentation Lead | Full-Stack E-commerce Application (Team of 5)
 ### 👤 Lusanda Mbenguzana  
 🏢 Zwelakhe Senior Secondary School  
 📧 lusandambenguzana1@gmail.com  
-📞 078 072 3715  
+📞 078 072 3715 
+</body>
+</html>

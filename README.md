@@ -82,6 +82,14 @@ Documentation Lead | Full-Stack E-commerce Application (Team of 5)
 
 ---
 
+<h2 align="center">🎥 Demo Video</h2>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=T-iVxsW9EfM">
+    <img src="https://img.youtube.com/vi/T-iVxsW9EfM/0.jpg" width="600">
+  </a>
+</p>
+
 
 ## 📞 References
 

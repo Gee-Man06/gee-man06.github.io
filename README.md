@@ -1,11 +1,10 @@
-# Mangaliso Snothando
 
 📧 241177049@mycput.ac.za | 🔗 [LinkedIn](https://www.linkedin.com/in/geemangaliso) | 📞 083 765 9532 | 📍 Woodstock, Cape Town
 
 ---
 
 ## 🎯 Career Objective 
-Final-year Diploma in Information and Communication Technology student specializing in Software Development, actively exploring opportunities in software development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or graduate opportunity within a technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and continue developing industry-level technical expertise.
+Final-year Diploma in Information and Communication Technology student specializing in Application Development, actively exploring opportunities in application development and AI-assisted solutions. Seeking a Work-Integrated Learning (WIL) placement, internship, or graduate opportunity within a technology-driven organization where I can contribute to innovative software systems, apply my knowledge of Java, Python, databases, and AI technologies, and continue developing industry-level technical expertise.
 
 ---
 
@@ -39,7 +38,8 @@ Cape Peninsula University of Technology (2024–2026)
 - Vibe Coding (LLMs – GPT-5 Nano)
 
 ### 🧰 Tools & Platforms
-- Git  
+- Git
+- gitHub 
 - IntelliJ IDEA  
 - VS Code  
 - NetBeans  
@@ -74,7 +74,7 @@ Documentation Lead | Full-Stack E-commerce Application (Team of 5)
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Mock Video Interview
 
 [![Watch Demo](https://img.youtube.com/vi/T-iVxsW9EfM/0.jpg)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
 

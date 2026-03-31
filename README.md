@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mangaliso Snothando - CV</title>
+</head>
+
+<body>
+
+<h1>Mangaliso Snothando</h1> 
+
 # Mangaliso Snothando  
 
 📧 241177049@mycput.ac.za  

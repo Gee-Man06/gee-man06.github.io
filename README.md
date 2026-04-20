@@ -100,18 +100,18 @@ Group Project | Student Course Enrollment System
 
 ---
 
-## 📞 References
+### 📞 References
 
-#### 👤 Siyabonga Gxula  
-#### 🏢 Zwelakhe Senior Secondary School  
-#### 📧 gxusiyabonga@gmail.com  
-#### 📞 078 766 5384 
+ 👤 Siyabonga Gxula  
+ 🏢 Zwelakhe Senior Secondary School  
+ 📧 gxusiyabonga@gmail.com  
+ 📞 078 766 5384 
 
 ---
 
-#### 👤 Lusanda Mbenguzana  
-#### 🏢 Zwelakhe Senior Secondary School  
-#### 📧 lusandambenguzana1@gmail.com  
-#### 📞 078 072 3715
+ 👤 Lusanda Mbenguzana  
+ 🏢 Zwelakhe Senior Secondary School  
+ 📧 lusandambenguzana1@gmail.com  
+ 📞 078 072 3715
 
 ---

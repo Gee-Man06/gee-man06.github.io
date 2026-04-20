@@ -96,7 +96,7 @@ Group Project | Student Course Enrollment System
 
 ## 🎥 Mock Video Interview
 
-[![Watch Demo](https://img.youtube.com/vi/T-iVxsW9EfM/0.jpg)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
+[![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
 
 ---
 

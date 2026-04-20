@@ -65,7 +65,7 @@ Cape Peninsula University of Technology (2024–2026)
 
 ## 🚀 Projects
 
-#### 📘 ExamReady Hub (2026 – Present)
+#### 📘 ExamReady Hub               2026 – Present
 
 Individual Project | Deployed Educational Web Platform  
 
@@ -76,7 +76,7 @@ Individual Project | Deployed Educational Web Platform
 - Designed responsive frontend and scalable backend-ready architecture  
 ---
 
-#### 🛒 Mzansi ThriftShop (2025 – Present)
+#### 🛒 Mzansi ThriftShop           2025 – Present
 
 Documentation Lead | Full-Stack E-commerce Application (Team of 5)  
 
@@ -86,7 +86,7 @@ Documentation Lead | Full-Stack E-commerce Application (Team of 5)
 - Created structured guides to support backend integration  
 ---
 
-#### 📘 Course Enrollment System
+#### 📘 Course Enrollment System     2025-Completed
 Group Project | Student Course Enrollment System
 
 - A Java-based course management system developed 2nd year groop project, allowing administrators to manage students and modules, while students can enroll in available courses
@@ -101,12 +101,13 @@ Group Project | Student Course Enrollment System
 ---
 
 ### 📞 References
+---
 
  👤 Siyabonga Gxula  
  🏢 Zwelakhe Senior Secondary School  
  📧 gxusiyabonga@gmail.com  
  📞 078 766 5384 
-
+ 
 ---
 
  👤 Lusanda Mbenguzana  

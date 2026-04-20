@@ -22,36 +22,36 @@ Cape Peninsula University of Technology (2024–2026)
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+#### 💻 Programming Languages
 - Java (Intermediate)  
 - Python (Intermediate)  
 - JavaScript (Intermediate)
 
-### 🌐 Web Technologies
+#### 🌐 Web Technologies
 - HTML  
 - CSS
 
-### Frameworks
+#### Frameworks
 - Laravel
 
-### 🧠 Software Design & Architecture
+#### 🧠 Software Design & Architecture
 - Domain-Driven Design 
 - Object-Oriented Design 
 - Design Patterns 
 - Layered Architecture
    
-### 🧪 Testing 
+#### 🧪 Testing 
 - Unit Testing (JUnit)
 - Test-Driven Development (TDD)
 
-### 🗄️ Databases
+#### 🗄️ Databases
 - SQL (Intermediate)
 
-### 🤖 AI & Modern Development
+#### 🤖 AI & Modern Development
 - Prompt Engineering (Advanced)  
 - Vibe Coding (LLMs – GPT-5 Nano)
 
-### 🧰 Tools & Platforms
+#### 🧰 Tools & Platforms
 - Git
 - gitHub 
 - IntelliJ IDEA  
@@ -65,7 +65,7 @@ Cape Peninsula University of Technology (2024–2026)
 
 ## 🚀 Projects
 
-### 📘 ExamReady Hub (2026 – Present)
+#### 📘 ExamReady Hub (2026 – Present)
 
 Individual Project | Deployed Educational Web Platform  
 
@@ -76,7 +76,7 @@ Individual Project | Deployed Educational Web Platform
 - Designed responsive frontend and scalable backend-ready architecture  
 ---
 
-### 🛒 Mzansi ThriftShop (2025 – Present)
+#### 🛒 Mzansi ThriftShop (2025 – Present)
 
 Documentation Lead | Full-Stack E-commerce Application (Team of 5)  
 
@@ -86,7 +86,7 @@ Documentation Lead | Full-Stack E-commerce Application (Team of 5)
 - Created structured guides to support backend integration  
 ---
 
-### 📘 Course Enrollment System
+#### 📘 Course Enrollment System
 Group Project | Student Course Enrollment System
 
 - A Java-based course management system developed 2nd year groop project, allowing administrators to manage students and modules, while students can enroll in available courses
@@ -94,7 +94,7 @@ Group Project | Student Course Enrollment System
 - Designed database queries for module registration and handling validation
 ---
 
-## 🎥 Mock Video Interview
+### 🎥 Mock Video Interview
 
 [![Watch Demo](https://img.shields.io/badge/Watch-Demo-blue?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=T-iVxsW9EfM)
 
@@ -102,12 +102,14 @@ Group Project | Student Course Enrollment System
 
 ## 📞 References
 
-### 👤 Siyabonga Gxula  
+#### 👤 Siyabonga Gxula  
 🏢 Zwelakhe Senior Secondary School  
 📧 gxusiyabonga@gmail.com  
 📞 078 766 5384  
+---
 
-### 👤 Lusanda Mbenguzana  
+#### 👤 Lusanda Mbenguzana  
 🏢 Zwelakhe Senior Secondary School  
 📧 lusandambenguzana1@gmail.com  
 📞 078 072 3715
+---

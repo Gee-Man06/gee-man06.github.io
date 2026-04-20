@@ -29,7 +29,20 @@ Cape Peninsula University of Technology (2024–2026)
 
 ### 🌐 Web Technologies
 - HTML  
-- CSS  
+- CSS
+
+### Frameworks
+- Laravel
+
+### 🧠 Software Design & Architecture
+- Domain-Driven Design 
+- Object-Oriented Design 
+- Design Patterns 
+- Layered Architecture
+   
+### 🧪 Testing 
+- Unit Testing (JUnit)
+- Test-Driven Development (TDD)
 
 ### 🗄️ Databases
 - SQL (Intermediate)
